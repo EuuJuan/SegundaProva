@@ -9,15 +9,19 @@ professora podendo ser rodado por um menu.
 
 ## Resultados obtidos: 
 
-Fourier:
+## Fourier:
 <img width="996" height="534" alt="fourier" src="https://github.com/user-attachments/assets/6a3e4e82-ce2c-4149-a6e8-838f3819d02f" />
-Passa-Baixa: 
+
+## Passa-Baixa: 
  <img width="1211" height="628" alt="Passa-Baixa" src="https://github.com/user-attachments/assets/783a68a6-d9c1-4ff4-a72e-664da25095c9" />
-Passa-alta: 
+ 
+## Passa-alta: 
  <img width="1242" height="634" alt="Passa-alta" src="https://github.com/user-attachments/assets/598be0d4-8bbe-4190-b0bd-4c4806102401" />
-passa-banda: 
+ 
+## passa-banda: 
  <img width="1205" height="633" alt="passa-banda" src="https://github.com/user-attachments/assets/4a02a660-8e17-4b30-aab1-3037a6096b64" />
-Notch: 
+ 
+## Notch: 
  <img width="1258" height="629" alt="Notch" src="https://github.com/user-attachments/assets/05c1b829-1b61-473d-ac17-d5ef3418dcf5" />
 
 ## Descrição dos filtros utilizados:  
